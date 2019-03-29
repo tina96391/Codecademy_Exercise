@@ -59,8 +59,8 @@ console.log(`My name is ${myName}. My favorite city is ${myCity}`);
 ## 8. typeof operator
 ```javascript
 let newVariable = 'Playing around with typeof.';
-console.log(typeof newVariable);
+console.log(typeof newVariable); //String
 
 let newVariable = 1;
-console.log(typeof newVariable);
+console.log(typeof newVariable); //num
 ```
